@@ -15,6 +15,7 @@
     	slides: [
         { src: "images/ro1.gif" },
        	{ src: "images/ro2.png" },
+		
          { src: "images/simu1.gif" },
          { src: "images/simu2.gif" }
     	],
@@ -43,6 +44,7 @@ $('#next').on('click', function () {
     	slides: [
         { src: "images/ekip45.jpeg" },
        	{ src: "images/ekip56.jpeg" },
+		
          { src: "images/ekipyari.jpeg" }
     	],
         transition: 'slideLeft2',
